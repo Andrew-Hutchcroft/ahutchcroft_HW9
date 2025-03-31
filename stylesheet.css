@@ -24,3 +24,8 @@
 .tooltip:hover .tooltiptext {
   visibility: visible;
 }
+
+img {
+  max-width: 200px;
+  height: auto;
+}
